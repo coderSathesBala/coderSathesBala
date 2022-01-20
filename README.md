@@ -11,12 +11,7 @@
 
 - 🌱 I’m currently learning anything related to coding and problem solving
 - 👯 I’m looking to collaborate on open source projects
-
-My name is Sathes Bala. I was previously working in the restaurant industry and found it awesome and a lot of fun. After about a year of working I found the job very tideous, felt like I wasn't learning anything new, and found it hard to challenge myself. I decided to change to a career where I'm constantly challenging myself and always learning something new. I joined Bitmaker Labs and completed an Immersive Web Development Coding Bootcamp. I'm currently improving my skills by trying new questions on LeetCode!
-
-I find working on LeetCode problems a lot of fun due to how challenging it can get. It also trains my brain on how to solve problems. Lastly it showed me how important Pseudocode is.
-
-My hobbies are travelling, exercising, and reading books. I spent a lot of time during quarantine reading books, two of my favorites are, How I built This - Guy Raz & Principles - Ray Dalio. My next travel destination is New York, I love a busy city!
+- ⚡ Fun fact: My hobbies are travelling, exercising, and reading books. I spent a lot of time during quarantine reading books, two of my favorites are, How I built This - Guy Raz & Principles - Ray Dalio. My next travel destination is New York, I love a busy city!
 
 # FAVORITE PROJECTS
 
@@ -44,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
