@@ -10,7 +10,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sathesbalasingam/ & sathes352@gmail.com
 
 - 🌱 I’m currently learning anything related to coding and problem solving
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects & hackathons
 - ⚡ Fun fact: My hobbies are travelling, exercising, and reading books. I spent a lot of time during quarantine reading books, two of my favorites are, How I built This - Guy Raz & Principles - Ray Dalio. My next travel destination is New York, I love a busy city!
 
 # FAVORITE PROJECTS
