@@ -2,6 +2,10 @@
 
 ## ABOUT ME
 
+I'm a Front End Developer skilled in JavaScript + React, currently learning Three.js because I enjoy creating anything interactive. 
+
+- 🤔 I’m looking for help with creating better interactive websites and help brands tell a better story.
+
 - 🔭 I’m currently working on 
 1) Gaining a better understanding of user experience
 2) Becoming a better problem solver
