@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I'm a Software Developer skilled in JavaScript + React, currently learning JavaScript Algorithms because I enjoy solving problems! 
+I'm a Front End Developer skilled in JavaScript + React, currently learning JavaScript Algorithms because I enjoy solving problems! 
 
 - 🤔 I’m looking to create better interactive websites and help brands tell a better story.
 
